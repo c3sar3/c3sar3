@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c3sar3 but you can call me Cesare
-- 👀 I’m interested in Machine Learning and Web3
-- 🌱 I’m currently learning Hyperledger Fabric and rudiments of Data Science
+- 👀 I’m interested in AI/Machine Learning and Web3
+- 🌱 I’m currently learning Hyperledger Fabric and AI/ML
 - 💞️ I’m looking to collaborate on projects that help me expand my ML and Blockchain contracts knowledge
 
 <!---
